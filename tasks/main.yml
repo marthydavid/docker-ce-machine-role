@@ -1,5 +1,5 @@
 ---
-# tasks file for machine
+# tasks file for docker-ce-machine
 
 - name: install docker machine
   get_url: 
