@@ -23,5 +23,4 @@ galaxy_info:
   - docker
   - cloud
 
-dependencies:
-  - geerlingguy.java
+dependencies: []
